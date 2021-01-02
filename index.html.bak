@@ -16,7 +16,7 @@
       <div class="inner">
         <header>
           <h1>Romanko Family Cinema
-                    Page 1</h1>
+                   - Page 1</h1>
           <p>A collection of Romanko family movies from the 60's and 70's.</p>
         </header>
         <a href="#main" class="more">View More</a> </div>
@@ -83,15 +83,12 @@
               <p>Birthdays and other fun times on Downland.</p>
               <a href="https://youtu.be/RWN6woZmgrw" class="button fit" data-poptrox="youtube,800x400">Watch</a>
             </div>
-            
-              </div>
+            </div>
             </div>
           </div>
         </div>
-      </div>
       <div style="text-align: center;"><u><b><a href="page2.html" target="_blank">Page
               2</a></b></u></div>
-    </div>
     <div><a href="page2.html"><br>
       </a></div>
     <div><a href="page2.html"></a>
