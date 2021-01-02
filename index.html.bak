@@ -95,29 +95,31 @@
           </div>
         </div>
       </div>
-    <!-- Footer -->
-    <footer id="footer">
-      <div class="inner">
-        <h2>Family Matters</h2>
-        <p>Click on the link below to see more family history on our facebook
-          group. If you have any further to add or comments, please click on the
-          e-mail and let me know what you think.</p>
-        <ul class="icons">
-          <li><a href="https://www.facebook.com/groups/203641841393382" class="icon fa-facebook"><span
+      <a href="page2.html">Page 2</a>
+      <!-- Footer -->
+      <footer id="footer">
+        <div class="inner">
+          <h2>Family Matters</h2>
+          <p>Click on the link below to see more family history on our facebook
+            group. If you have any further to add or comments, please click on
+            the e-mail and let me know what you think.</p>
+          <ul class="icons">
+            <li><a href="https://www.facebook.com/groups/203641841393382" class="icon fa-facebook"><span
 
-                class="label">Facebook</span></a></li>
-          <li><a href="mailto:shawn.romanko@gmail.com" class="icon fa-envelope"><span
+                  class="label">Facebook</span></a></li>
+            <li><a href="mailto:shawn.romanko@gmail.com" class="icon fa-envelope"><span
 
-                class="label">Email</span></a></li>
-        </ul>
-      </div>
-    </footer>
-    <!-- Scripts -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/jquery.scrolly.min.js"></script>
-    <script src="assets/js/jquery.poptrox.min.js"></script>
-    <script src="assets/js/skel.min.js"></script>
-    <script src="assets/js/util.js"></script>
-    <script src="assets/js/main.js"></script>
+                  class="label">Email</span></a></li>
+          </ul>
+        </div>
+      </footer>
+      <!-- Scripts -->
+      <script src="assets/js/jquery.min.js"></script>
+      <script src="assets/js/jquery.scrolly.min.js"></script>
+      <script src="assets/js/jquery.poptrox.min.js"></script>
+      <script src="assets/js/skel.min.js"></script>
+      <script src="assets/js/util.js"></script>
+      <script src="assets/js/main.js"></script> </div>
+    
   </body>
 </html>
