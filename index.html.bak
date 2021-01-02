@@ -15,8 +15,8 @@
     <section id="banner" data-video="images/banner">
       <div class="inner">
         <header>
-          <h1>Romanko Family Cinema
-                   - Page 1</h1>
+          <h1>Romanko Family Cinema</h1>
+                <h1> - Page 1</h1>
           <p>A collection of Romanko family movies from the 60's and 70's.</p>
         </header>
         <a href="#main" class="more">View More</a> </div>
