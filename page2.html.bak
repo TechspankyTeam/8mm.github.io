@@ -1,10 +1,8 @@
 <!DOCTYPE html>
-<!--
-	Full Motion by TEMPLATED	templated.co @templatedco	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)-->
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>Romanko Family Cinema</title>
+    <title>Romanko Family Cinema - Page 2</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="assets/css/main.css">
   </head>
@@ -25,14 +23,43 @@
       <div class="inner">
         <!-- Boxes -->
         <div class="thumbnails">
-          <div class="box"> <a href="https://youtu.be/Xa0bJi6ihYg" class="image fit"><img
+          <div class="box"> <a href="https://youtu.be/_LBAAvMJqjU" class="image fit"><img
 
-                src="images/pic01.jpg" alt=""></a>
-            <div class="inner">
-              <h3>X-Mas Time</h3>
-              <p>Christmas around the Romanko household was a time we all looked
-                forward to as kids and where the best gift of all was family.</p>
-              <a href="https://youtu.be/Xa0bJi6ihYg" class="button fit" data-poptrox="youtube,800x400">Watch</a>
+                  src="images/pic07.jpg" alt=""></a>
+              <div class="inner">
+                <h3>Bois' Visit Vermillion</h3>
+                <p>Grammy and Pappy and the Bois family get together at the camp
+                  on Vermillion River</p>
+                <a href="https://youtu.be/_LBAAvMJqjU" class="button fit" data-poptrox="youtube,800x400">Watch</a>
             </div>
           </div>
         </div>
+      </div>
+    </div>
+    <!-- Footer -->
+    <footer id="footer">
+      <div class="inner">
+        <h2>Family Matters</h2>
+        <p>Click on the link below to see more family history on our facebook
+          group. If you have any further to add or comments, please click on the
+          e-mail and let me know what you think.</p>
+        <ul class="icons">
+          <li><a href="https://www.facebook.com/groups/203641841393382" class="icon fa-facebook"><span
+
+                class="label">Facebook</span></a></li>
+          <li><a href="mailto:shawn.romanko@gmail.com" class="icon fa-envelope"><span
+
+                class="label">Email</span></a></li>
+        </ul>
+      </div>
+    </footer>
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.scrolly.min.js"></script>
+    <script src="assets/js/jquery.poptrox.min.js"></script>
+    <script src="assets/js/skel.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+    
+  </body>
+</html>
