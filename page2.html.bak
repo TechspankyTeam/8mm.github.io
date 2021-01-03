@@ -14,8 +14,9 @@
       <div class="inner">
         <header>
           <h1>Romanko Family Cinema</h1>
-                <h1>- Page 2</h1>
-          <p>A collection of Romanko family movies from the 60's and 70's.</p>
+          <h1>- Page 2</h1>
+          <p><strong><u><i><b>A collection of Romanko family movies from the
+                    60's and 70's.</b></i></u></strong></p>
         </header>
         <a href="#main" class="more">View More</a> </div>
     </section>
@@ -24,8 +25,7 @@
       <div class="inner">
         <!-- Boxes -->
         <div class="thumbnails">
-          <div class="box"> <a href="https://youtu.be/_LBAAvMJqjU" class="image fit"><img
-
+          <div class="box"> <a href="https://youtu.be/_LBAAvMJqjU" class="image fit"><img
                 src="images/pic07.jpg" alt=""></a>
             <div class="inner">
               <h3>Bois' Visit Vermillion</h3>
@@ -37,8 +37,8 @@
         </div>
       </div>
     </div>
-    <p style="text-align: center;"> <u><b><a href="index.html">Return to
-            Main Page</a></b></u></p>
+    <p style="text-align: center;"> <u><b><a href="index.html">Return to Main
+            Page</a></b></u></p>
     <p><br>
       <!-- Footer --> </p>
     <footer id="footer">
@@ -48,11 +48,9 @@
           group. If you have any further to add or comments, please click on the
           e-mail and let me know what you think.</p>
         <ul class="icons">
-          <li><a href="https://www.facebook.com/groups/203641841393382" class="icon fa-facebook"><span
-
+          <li><a href="https://www.facebook.com/groups/203641841393382" class="icon fa-facebook"><span
                 class="label">Facebook</span></a></li>
-          <li><a href="mailto:shawn.romanko@gmail.com" class="icon fa-envelope"><span
-
+          <li><a href="mailto:shawn.romanko@gmail.com" class="icon fa-envelope"><span
                 class="label">Email</span></a></li>
         </ul>
       </div>
