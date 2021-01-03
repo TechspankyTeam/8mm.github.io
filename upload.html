@@ -2,14 +2,19 @@
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>upload.html</title>
+    <title></title>
   </head>
   <body>
-    <form action="upload.php" method="post" enctype="multipart/form-data">
-      Select image to upload: <input name="fileToUpload" id="fileToUpload" type="file">
-      <input value="Upload Image" name="submit" type="submit">
-    </form>
-    <p><br>
+    <p><label for="pictures_upload">Pictures: </label>
+      <input multiple="" id="pictures_upload" name="pictures[]" type="file"><br>
     </p>
+    <form action="uploadfiles.php" method="post" enctype="multipart/form-data">
+
+<!--Content will go inside here.-->
+
+<input type="submit" value="Upload Now">
+
+</form>
+
   </body>
 </html>
