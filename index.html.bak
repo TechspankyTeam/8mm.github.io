@@ -81,8 +81,8 @@
         </div>
       </div>
     </div>
-    <div style="text-align: center;"><strong><code><span style="color: black;"><u><b><a
-                  href="page2.html">Page 2</a></b></u></span></code></strong></div>
+    <div style="text-align: center;"><span style="color: #ABEBC6;"><strong><code><u><b><a
+                  href="page2.html">Page 2</a></b></u></code></strong></span></div>
     <!-- Footer -->
     <footer id="footer">
       <div class="inner">
