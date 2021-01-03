@@ -76,7 +76,7 @@
 	}
 
 	body {
-		background: #212F3C;
+		background: #202024;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -1147,6 +1147,8 @@
 				.poptrox-popup .closer {
 					display: none !important;
 				}
+
+		}
 
 /* Banner */
 
