@@ -12,7 +12,7 @@
     <!-- Banner -->
     <!--
 				To use a video as your background, set data-video to the name of your video without				its extension (eg. images/banner). Your video must be available in both .mp4 and .webm				formats to work correctly.			-->&nbsp;
-    <section id="banner" data-video="images/familytree">
+    <section id="banner" data-video="images/banner">
       <div class="inner">
         <header>
           <h1>Romanko Family Cinema</h1>
@@ -25,7 +25,6 @@
                 More</a> </b></u></header>
         <u><b> </b></u></div>
     </section>
-    
     <footer id="footer">
       <div class="inner">
         <h2>Family Matters</h2>
@@ -33,11 +32,9 @@
           group. If you have any further to add or comments, please click on the
           e-mail and let me know what you think.</p>
         <ul class="icons">
-          <li><a href="https://www.facebook.com/groups/203641841393382" class="icon fa-facebook"><span
-
+          <li><a href="https://www.facebook.com/groups/203641841393382" class="icon fa-facebook"><span
                 class="label">Facebook</span></a></li>
-          <li><a href="mailto:shawn.romanko@gmail.com" class="icon fa-envelope"><span
-
+          <li><a href="mailto:shawn.romanko@gmail.com" class="icon fa-envelope"><span
                 class="label">Email</span></a></li>
         </ul>
       </div>
