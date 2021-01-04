@@ -12,7 +12,7 @@
     <!-- Banner -->
     <!--
 				To use a video as your background, set data-video to the name of your video without				its extension (eg. images/banner). Your video must be available in both .mp4 and .webm				formats to work correctly.			-->&nbsp;
-    <section id="banner" data-video="images/banner">
+    <section id="banner" data-video="images/familytree">
       <div class="inner">
         <header>
           <h1>Romanko Family Cinema</h1>
@@ -24,12 +24,8 @@
           <u><b><a href="index.html"> </a><a href="#main" class="more">View
                 More</a> </b></u></header>
         <u><b> </b></u></div>
-      <u><b> </b></u> </section>
-    <div id="main"> <u><i><b><a href="https://photos.app.goo.gl/PHpBC17itFSkqh2M7">Ron
-              Romanko</a></b></i></u></div>
-    <img src="file:///C:/Users/CallMe/Desktop/Github/8mm.github.io/images/mom.JPG"
-      alt="Joanne Romanko" title="Joanne" longdesc="https://photos.app.goo.gl/PHpBC17itFSkqh2M7"
-      style="width: 99px; height: 68px;">
+    </section>
+    
     <footer id="footer">
       <div class="inner">
         <h2>Family Matters</h2>
@@ -37,9 +33,11 @@
           group. If you have any further to add or comments, please click on the
           e-mail and let me know what you think.</p>
         <ul class="icons">
-          <li><a href="https://www.facebook.com/groups/203641841393382" class="icon fa-facebook"><span
+          <li><a href="https://www.facebook.com/groups/203641841393382" class="icon fa-facebook"><span
+
                 class="label">Facebook</span></a></li>
-          <li><a href="mailto:shawn.romanko@gmail.com" class="icon fa-envelope"><span
+          <li><a href="mailto:shawn.romanko@gmail.com" class="icon fa-envelope"><span
+
                 class="label">Email</span></a></li>
         </ul>
       </div>
