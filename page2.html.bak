@@ -17,55 +17,53 @@
           <h1>- Page 2</h1>
           <p><strong><u><i><b>A collection of Romanko family movies from the
                     60's and 70's.</b></i></u></strong></p>
-          <p style="text-align: center;"> <u><b><a href="index.html">Return to
-            Main<br>
-          </a></b></u></p>
-        </header>
-        <a href="#main" class="more">View More</a> </div>
-    </section>
-    <!-- Main -->
-    <div id="main">
-      <div class="inner">
-        <!-- Boxes -->
-        <div class="thumbnails">
-          <div class="box"> <a href="https://youtu.be/_LBAAvMJqjU" class="image fit"><img
-
-                src="images/pic07.jpg" alt=""></a>
-            <div class="inner">
-              <h3>Bois' Visit Vermillion</h3>
-              <p>Grammy and Pappy and the Bois family get together at the camp
-                on Vermillion River</p>
-              <a href="https://youtu.be/_LBAAvMJqjU" class="button fit" data-poptrox="youtube,800x400">Watch</a>
+          <p style="text-align: center;"> <u><b><a href="index.html"> </a></b></u></p>
+          <h3><u><b><a href="index.html">Return to Main</a></b></u></h3>
+          <u><b><a href="index.html"> </a><a href="#main" class="more">View
+                More</a> </b></u></header>
+        <u><b> </b></u></div>
+      <u><b> </b></u></section>
+    <u><b>
+        <!-- Main -->
+        <div id="main">
+          <div class="inner">
+            <!-- Boxes -->
+            <div class="thumbnails">
+              <div class="box"> <a href="https://youtu.be/_LBAAvMJqjU" class="image fit"><img
+                    src="images/pic07.jpg" alt=""></a>
+                <div class="inner">
+                  <h3>Bois' Visit Vermillion</h3>
+                  <p>Grammy and Pappy and the Bois family get together at the
+                    camp on Vermillion River</p>
+                  <a href="https://youtu.be/_LBAAvMJqjU" class="button fit" data-poptrox="youtube,800x400">Watch</a>
+                </div>
+              </div>
             </div>
           </div>
         </div>
-      </div>
-    </div>
-    <p style="text-align: center;"> <u><b><a href="index.html">Return to
-            Main<br>
-          </a></b></u></p>
-    <footer id="footer">
-      <div class="inner">
-        <h2>Family Matters</h2>
-        <p>Click on the link below to see more family history on our facebook
-          group. If you have any further to add or comments, please click on the
-          e-mail and let me know what you think.</p>
-        <ul class="icons">
-          <li><a href="https://www.facebook.com/groups/203641841393382" class="icon fa-facebook"><span
-
-                class="label">Facebook</span></a></li>
-          <li><a href="mailto:shawn.romanko@gmail.com" class="icon fa-envelope"><span
-
-                class="label">Email</span></a></li>
-        </ul>
-      </div>
-    </footer>
-    <!-- Scripts -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/jquery.scrolly.min.js"></script>
-    <script src="assets/js/jquery.poptrox.min.js"></script>
-    <script src="assets/js/skel.min.js"></script>
-    <script src="assets/js/util.js"></script>
-    <script src="assets/js/main.js"></script>
+        <p style="text-align: center;"> <u><b><a href="index.html">Return to
+                Main<br>
+              </a></b></u></p>
+        <footer id="footer">
+          <div class="inner">
+            <h2>Family Matters</h2>
+            <p>Click on the link below to see more family history on our
+              facebook group. If you have any further to add or comments, please
+              click on the e-mail and let me know what you think.</p>
+            <ul class="icons">
+              <li><a href="https://www.facebook.com/groups/203641841393382" class="icon fa-facebook"><span
+                    class="label">Facebook</span></a></li>
+              <li><a href="mailto:shawn.romanko@gmail.com" class="icon fa-envelope"><span
+                    class="label">Email</span></a></li>
+            </ul>
+          </div>
+        </footer>
+        <!-- Scripts -->
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/jquery.scrolly.min.js"></script>
+        <script src="assets/js/jquery.poptrox.min.js"></script>
+        <script src="assets/js/skel.min.js"></script>
+        <script src="assets/js/util.js"></script>
+        <script src="assets/js/main.js"></script> </b></u>
   </body>
 </html>
