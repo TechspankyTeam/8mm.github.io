@@ -8,19 +8,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="assets/css/main.css">
   </head>
-  <body id="top"> <!-- Banner -->
+  <body id="top">
+    <!-- Banner -->
     <!--
 				To use a video as your background, set data-video to the name of your video without				its extension (eg. images/banner). Your video must be available in both .mp4 and .webm				formats to work correctly.			-->
+    <a href="https://photos.app.goo.gl/PHpBC17itFSkqh2M7"><img alt="Ron Romanko"
+        src="images/dad.jpg" style="width: 61px; height: 61px;" border="0"></a>
     <section id="banner" data-video="images/banner">
       <div class="inner">
-        <header>
+        <header> <a href="https://photos.app.goo.gl/PHpBC17itFSkqh2M7"> </a>
           <h1>Romanko Family Cinema</h1>
           <h1> - Page 1</h1>
           <p><strong><b><i><u>A collection of Romanko family movies from the
                     60's and 70's.</u></i></b></strong></p>
-          <div style="text-align: center;"><span style="color: #ABEBC6;"><strong><code><u><b><a
-
-                  href="page2.html">Page 2</a></b></u></code></strong></span></div>
+          <div style="text-align: center;"><span style="color: #ABEBC6;"><strong><code><u><b><a
+                        href="page2.html">
+                        <h3>Page 2</h3>
+                      </a></b></u></code></strong></span></div>
         </header>
         <a href="#main" class="more">View More</a> </div>
     </section>
@@ -29,8 +33,7 @@
       <div class="inner">
         <!-- Boxes -->
         <div class="thumbnails">
-          <div class="box"> <a href="https://youtu.be/Xa0bJi6ihYg" class="image fit"><img
-
+          <div class="box"> <a href="https://youtu.be/Xa0bJi6ihYg" class="image fit"><img
                 src="images/pic01.jpg" alt=""></a>
             <div class="inner">
               <h3>X-Mas Time</h3>
@@ -39,8 +42,7 @@
               <a href="https://youtu.be/Xa0bJi6ihYg" class="button fit" data-poptrox="youtube,800x400">Watch</a>
             </div>
           </div>
-          <div class="box"> <a href="https://youtu.be/MoQRU7L0HNg" class="image fit"><img
-
+          <div class="box"> <a href="https://youtu.be/MoQRU7L0HNg" class="image fit"><img
                 src="images/pic02.jpg" alt=""></a>
             <div class="inner">
               <h3>Birthdays</h3>
@@ -49,8 +51,7 @@
               <a href="https://youtu.be/MoQRU7L0HNg" class="button style2 fit" data-poptrox="youtube,800x400">Watch</a>
             </div>
           </div>
-          <div class="box"> <a href="https://youtu.be/65gyEpZAG9E" class="image fit"><img
-
+          <div class="box"> <a href="https://youtu.be/65gyEpZAG9E" class="image fit"><img
                 src="images/pic03.jpg" alt=""></a>
             <div class="inner">
               <h3>Camp</h3>
@@ -59,8 +60,7 @@
               <a href="https://youtu.be/65gyEpZAG9E" class="button style3 fit" data-poptrox="youtube,800x400">Watch</a>
             </div>
           </div>
-          <div class="box"> <a href="https://youtu.be/K8fUeqZNmXA" class="image fit"><img
-
+          <div class="box"> <a href="https://youtu.be/K8fUeqZNmXA" class="image fit"><img
                 src="images/pic04.jpg" alt=""></a>
             <div class="inner">
               <h3>Trips</h3>
@@ -68,8 +68,7 @@
               <a href="https://youtu.be/K8fUeqZNmXA" class="button style2 fit" data-poptrox="youtube,800x400">Watch</a>
             </div>
           </div>
-          <div class="box"> <a href="https://youtu.be/n-8RruOvmbk" class="image fit"><img
-
+          <div class="box"> <a href="https://youtu.be/n-8RruOvmbk" class="image fit"><img
                 src="images/pic05.jpg" alt=""></a>
             <div class="inner">
               <h3>Assorted movies</h3>
@@ -78,8 +77,7 @@
               <a href="https://youtu.be/n-8RruOvmbk" class="button style3 fit" data-poptrox="youtube,800x400">Watch</a>
             </div>
           </div>
-          <div class="box"> <a href="https://youtu.be/RWN6woZmgrw" class="image fit"><img
-
+          <div class="box"> <a href="https://youtu.be/RWN6woZmgrw" class="image fit"><img
                 src="images/pic06.jpg" alt=""></a>
             <div class="inner">
               <h3>Adventures on Downland Ave.</h3>
@@ -90,9 +88,6 @@
         </div>
       </div>
     </div>
-    <div style="text-align: center;"><span style="color: #ABEBC6;"><strong><code><u><b><a
-
-                  href="page2.html">Page 2</a></b></u></code></strong></span></div>
     <!-- Footer -->
     <footer id="footer">
       <div class="inner">
@@ -101,11 +96,9 @@
           group. If you have any further to add or comments, please click on the
           e-mail and let me know what you think.</p>
         <ul class="icons">
-          <li><a href="https://www.facebook.com/groups/203641841393382" class="icon fa-facebook"><span
-
+          <li><a href="https://www.facebook.com/groups/203641841393382" class="icon fa-facebook"><span
                 class="label">Facebook</span></a></li>
-          <li><a href="mailto:shawn.romanko@gmail.com" class="icon fa-envelope"><span
-
+          <li><a href="mailto:shawn.romanko@gmail.com" class="icon fa-envelope"><span
                 class="label">Email</span></a></li>
         </ul>
       </div>
