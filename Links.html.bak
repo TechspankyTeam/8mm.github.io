@@ -12,6 +12,8 @@
 				To use a video as your background, set data-video to the name of your video without				its extension (eg. images/banner). Your video must be available in both .mp4 and .webm				formats to work correctly.			-->
     <section id="banner" data-video="images/banner">
       <div class="inner">
+        </div>
+    </section>
         <header>
           <h1>Romanko Family Cinema</h1>
     <div style="text-align: center;"><!-- Banner --><a href="https://photos.app.goo.gl/Zr74WpT1s9Z9Mgea7"><img
