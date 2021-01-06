@@ -68,7 +68,7 @@
 						$window.on('load.banner', function() {
 
 							// Disable banner load event (so it doesn't fire again).
-								$window.on('load.banner');
+								$window.off('load.banner');
 
 							// Append video if supported.
 								if (!skel.vars.mobile
