@@ -12,7 +12,7 @@
       <div class="inner">
         <header>
           <h1>Bois/Romanko Family Albums</h1>
-          <p><strong><u><i><b>A Collection of Family Tree Albums</b></i></u></strong></p>
+          <p style="color: red"><font size="20"><strong><u><i><b>A Collection of Family Tree Albums</b></i></u></strong></font></p>
           <p style="text-align: center;"> <u><b><a href="index.html"> </a></b></u></p>
           <h3><u><b><a href="index.html">Return to Main</a></b></u></h3>
           <u><b><a href="index.html"> </a><a href="#main" class="more">View
