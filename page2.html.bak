@@ -21,15 +21,15 @@
 
         controls="controls" height="400" width="1000"> <source src="compressed.mp4"
 
-          type="video/mp4"> Your browser does not support the video tag. </video>
+          type="video/mp4"> </video>
       <header>
         <h1 style="text-align: center;"><font size="5"><span style="color: #00b300;"><i><b>Romanko
                   Family Cinema</b></i></span></font></h1>
         <p style="text-align: center;"><font size="5"><span style="color: #00b300;"><strong><i><b>A collection
           of Romanko family movies from the 60's and 70's.</b></i></strong></span></font></p>
-        <h3 style="text-align: center;"><u><b><a href="index.html">Return To
-                Main Page</a></b></u></h3>
-        <p style="text-align: center;"><span style="color: #00b300;"><u><b><a href="Links.html">More Family
+        <h3 style="text-align: center;"><u><b><a href="index.html"><span style="color: #009900;">Return To
+          Main Page</span></a></b></u></h3>
+        <p style="text-align: center;"><span style="color: #009900;"><u><b><a href="Links.html">More Family
           Tree Links</a></b></u></span></p>
         <p style="text-align: center;"> <u><b><a href="index.html"> </a></b></u></p>
         <div style="text-align: center;"><u><b><a href="index.html"> </a><a href="#main"
