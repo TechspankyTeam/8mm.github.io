@@ -21,11 +21,12 @@
 
         height="400" width="1000"> <source src="family.mp4" type="video/mp4"></video>
       <header>
-        <h1 style="text-align: center;"><font size="5">Bois/Romanko Family Albums</font></h1>
-        <p style="text-align: center;"><font size="5"><strong><i><b>A Collection of
-                Family Tree Albums</b></i></strong></font></p>
-        <h3 style="text-align: center;"><u><b><a href="index.html">Return to
-                Main</a></b></u></h3>
+        <h1 style="text-align: center;"><font size="5"><span style="color: #00b300;">Bois/Romanko Family
+          Albums</span></font></h1>
+        <p style="text-align: center;"><span style="color: #009900;"><font size="5"><strong><i><b>A
+                    Collection of Family Tree Albums</b></i></strong></font></span></p>
+        <h3 style="text-align: center;"><span style="color: ##00b300;"><u><b><a href="index.html">Return
+                  to Main</a></b></u></span></h3>
       </header>
       <div class="caption"> </div>
     </div>
